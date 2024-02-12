@@ -1094,7 +1094,6 @@
   integrity sha512-o6oDPL6G57M9gjzRv8sIJKO/n427VUIHymOJouHY9S6ek5YLkbd9pIB8tJdjjmz8DxbJ5aldgJO19jJLEGA0MA==
   dependencies:
     "@callstack/repack-dev-server" "^1.0.0"
-    "@pmmmwh/react-refresh-webpack-plugin" "^0.5.7"
     colorette "^1.2.2"
     dedent "^0.7.0"
     escape-string-regexp "^4.0.0"
@@ -1523,21 +1522,6 @@
   dependencies:
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
-
-"@pmmmwh/react-refresh-webpack-plugin@^0.5.7":
-  version "0.5.10"
-  resolved "https://registry.yarnpkg.com/@pmmmwh/react-refresh-webpack-plugin/-/react-refresh-webpack-plugin-0.5.10.tgz#2eba163b8e7dbabb4ce3609ab5e32ab63dda3ef8"
-  integrity sha512-j0Ya0hCFZPd4x40qLzbhGsh9TMtdb+CJQiso+WxLOPNasohq9cc5SNUcwsZaRH6++Xh91Xkm/xHCkuIiIu0LUA==
-  dependencies:
-    ansi-html-community "^0.0.8"
-    common-path-prefix "^3.0.0"
-    core-js-pure "^3.23.3"
-    error-stack-parser "^2.0.6"
-    find-up "^5.0.0"
-    html-entities "^2.1.0"
-    loader-utils "^2.0.4"
-    schema-utils "^3.0.0"
-    source-map "^0.7.3"
 
 "@react-native-community/cli-clean@^10.1.1":
   version "10.1.1"
